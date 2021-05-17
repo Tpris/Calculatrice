@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/my/calculator/Token.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/arbres/expr/ExprAffectation.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/arbres/expr/ExprConstante.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/arbres/expr/Environnement.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/arbres/expr/OpBinaire.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/my/calculator/Calculator.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/my/calculator/Tokenizer.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/my/calculator/TableVariables.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/arbres/expr/ExprVariable.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/my/calculator/TokenType.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/arbres/expr/Expr.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/arbres/expr/ExprBinaire.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/src/calculette/Calculette.java</file>
+            <file>file:/C:/Users/Priscilla/Documents/NetBeansProjects/Calculette_v.5/test/my/calculator/CalculatorIT.java</file>
+        </group>
+    </open-files>
+</project-private>
